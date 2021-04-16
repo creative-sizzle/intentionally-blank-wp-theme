@@ -6,6 +6,10 @@
  * @subpackage intentionally-blank
  */
 
+if (! defined( 'WPINC' ) ) {
+	die;
+}
+
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>

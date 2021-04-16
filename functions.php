@@ -6,6 +6,10 @@
  * @subpackage intentionally-blank
  */
 
+if (! defined( 'WPINC' ) ) {
+	die;
+}
+
 if ( ! function_exists( 'blank_setup' ) ) :
 	/**
 	 * Sets up theme defaults and registers the various WordPress features that
