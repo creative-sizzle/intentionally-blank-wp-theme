@@ -1,0 +1,21 @@
+{
+  "name": "intentionally-blank",
+  "version": "2.2.0",
+  "description": "This theme was intentionally left blank. There are times when all you need is the WordPress dashboard and an blank frontend.",
+  "scripts": {
+    "bundle": "dir-archiver --src . --dest ../intentionally-blank.zip --exclude .DS_Store .stylelintrc.json .eslintrc .git .gitattributes .github .gitignore README.md composer.json composer.lock node_modules vendor package-lock.json package.json phpcs.xml.dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creative-sizzle/intentionally-blank-wp-theme.git"
+  },
+  "author": "Creative Sizzle",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/creative-sizzle/intentionally-blank-wp-theme/issues"
+  },
+  "homepage": "https://github.com/creative-sizzle/intentionally-blank-wp-theme#readme",
+  "devDependencies": {
+    "dir-archiver": "^1.2.0"
+  }
+}

@@ -6,7 +6,7 @@
  * @subpackage intentionally-blank
  */
 
-if (! defined( 'WPINC' ) ) {
+if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
@@ -29,7 +29,7 @@ body{background-color: #f5f5f5; background-size:cover}
 <div class="site-title"><div class="site-title-bg">
 <h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 <?php
-$blank_description = get_bloginfo( 'description', 'display' );
+$intentionally_blank_description = get_bloginfo( 'description', 'display' );
 if ( $blank_description || is_customize_preview() ) :
 	?>
 	<p class="site-description"><?php echo esc_html( $blank_description ); ?></p>

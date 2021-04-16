@@ -1,7 +1,7 @@
 === Intentionally Blank ===
 Contributors: Creative Sizzle, nilovelez
 Tags: featured-images, custom-background, theme-options, translation-ready
-Requires at least: 4.6
+Requires at least: 5.0
 Tested up to: 5.7.1
 Stable tag: main
 License: GPLv2 or later

@@ -6,16 +6,16 @@
  * @subpackage intentionally-blank
  */
 
-if (! defined( 'WPINC' ) ) {
+if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-if ( ! function_exists( 'blank_setup' ) ) :
+if ( ! function_exists( 'intentionally_blank_setup' ) ) :
 	/**
 	 * Sets up theme defaults and registers the various WordPress features that
 	 * this theme supports.
 	 */
-	function blank_setup() {
+	function intentionally_blank_setup() {
 		load_theme_textdomain( 'intentionally-blank' );
 		add_theme_support( 'automatic-feed-links' );
 		add_theme_support( 'title-tag' );
@@ -43,7 +43,7 @@ if ( ! function_exists( 'blank_setup' ) ) :
 		add_theme_support( 'post-thumbnails' );
 	}
 endif; // end function_exists blank_setup.
-add_action( 'after_setup_theme', 'blank_setup' );
+add_action( 'after_setup_theme', 'intentionally_blank_setup' );
 
 add_action(
 	'customize_register',

@@ -1,0 +1,46 @@
+# Copyright (C) 2021 Creative Sizzle
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Intentionally Blank 2.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/intentionally-blank\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-16T14:29:41-05:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: intentionally-blank\n"
+
+#. Theme Name of the theme
+#: index.php:41
+msgid "Intentionally Blank"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/creative-sizzle/intentionally-blank-wp-theme"
+msgstr ""
+
+#. Description of the theme
+msgid "This theme was intentionally left blank. There are times when all you need is the WordPress dashboard and an blank frontend. You might be using the WordPress REST API as a backend for a mobile App or you might be a minimalism obsessed hipster. This is your theme."
+msgstr ""
+
+#. Author of the theme
+msgid "Creative Sizzle"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://creativesizzle.com"
+msgstr ""
+
+#. translators: Proudly powered by WordPress
+#: index.php:43
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: Proudly powered by WordPress
+#: index.php:43
+msgid "Proudly powered by %s"
+msgstr ""
