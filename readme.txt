@@ -1,9 +1,9 @@
 === Intentionally Blank ===
-Contributors: nilovelez
-Tags: custom-background, theme-options, translation-ready
+Contributors: Creative Sizzle, nilovelez
+Tags: featured-images, custom-background, theme-options, translation-ready
 Requires at least: 4.6
-Tested up to: 4.7.4
-Stable tag: trunk
+Tested up to: 5.7.1
+Stable tag: main
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,9 @@ Blank it's actually safer than all those bloated multi-purpose themes. There isn
 I probably can, but I probably won't. Blank serves a single pupose, closing the front-end, and it does that beatifully. If there's anything more you need, fork it or install a plugin.
 
 == Changelog ==
+
+= 2.2.0 =
+* Added theme support for featured images.
 
 = 2.0 =
 * Added wp_body_open() and some required headers. Enjoy!
