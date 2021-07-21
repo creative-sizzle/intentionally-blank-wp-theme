@@ -20,14 +20,6 @@ if ( ! function_exists( 'intentionally_blank_setup' ) ) :
 		add_theme_support( 'automatic-feed-links' );
 		add_theme_support( 'title-tag' );
 
-		// This theme allows users to set a custom background.
-		add_theme_support(
-			'custom-background',
-			array(
-				'default-color' => 'f5f5f5',
-			)
-		);
-
 		add_theme_support( 'custom-logo' );
 		add_theme_support(
 			'custom-logo',

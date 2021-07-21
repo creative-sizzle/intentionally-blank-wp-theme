@@ -2,7 +2,7 @@
 Contributors: Creative Sizzle, nilovelez
 Tags: featured-images, custom-background, theme-options, translation-ready
 Requires at least: 5.0
-Tested up to: 5.7.1
+Tested up to: 5.8
 Stable tag: main
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
