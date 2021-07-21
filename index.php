@@ -30,9 +30,9 @@ body{background-color: #f5f5f5; background-size:cover}
 <h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 <?php
 $intentionally_blank_description = get_bloginfo( 'description', 'display' );
-if ( $blank_description || is_customize_preview() ) :
+if ( $intentionally_blank_description || is_customize_preview() ) :
 	?>
-	<p class="site-description"><?php echo esc_html( $blank_description ); ?></p>
+	<p class="site-description"><?php echo esc_html( $intentionally_blank_description ); ?></p>
 <?php endif; ?>
 </div></div>
 <?php the_custom_logo(); ?>
