@@ -30,6 +30,9 @@ I probably can, but I probably won't. Blank serves a single pupose, closing the 
 
 == Changelog ==
 
+= 2.2.1 =
+* Bug fixes.
+
 = 2.2.0 =
 * Added theme support for featured images.
 

@@ -2,16 +2,16 @@
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Intentionally Blank 2.2.0\n"
+"Project-Id-Version: Intentionally Blank 2.2.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/intentionally-blank\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-04-16T14:29:41-05:00\n"
+"POT-Creation-Date: 2021-07-21T21:01:44+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.4.0\n"
+"X-Generator: WP-CLI 2.5.0\n"
 "X-Domain: intentionally-blank\n"
 
 #. Theme Name of the theme
